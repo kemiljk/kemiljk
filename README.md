@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+## I'm Karl Emil James Koch, a Product Designer currently designing the Home as a Service at [HomeHero](https://www.homehero.co.uk) in London, UK.
+
+I started out my career with training in psychology and a Masters in Fine Art, creating behaviour-influencing sculptures and digital installations.
+
+Now, having spent my career bringing experience design practices to rare diseases and delivering elegant AI-driven solutions to change the face of renewable energy, I'm designing the future of Home as a Service at HomeHero.
+
+Previously, I've worked for [NeuerEnergy](https://www.neuerenergy.com), [Cognite](https://www.cognite.co), Incuna and [Apple](https://www.apple.com/uk/retail).
+
+![My portfolio](https://www.kejk.tech/img/portfolio.03ef5548.webp)
 
 <!--
 **kemiljk/kemiljk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
