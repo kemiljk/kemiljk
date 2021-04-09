@@ -1,13 +1,11 @@
 # Hi there 👋
 ## I'm Karl Emil James Koch, a Product Designer currently designing the Home as a Service at [HomeHero](https://www.homehero.co.uk) in London, UK.
 
-I started out my career with training in psychology and a Masters in Fine Art, creating behaviour-influencing sculptures and digital installations.
+I design and build software, write about the intersection of design and development and create music.
 
-Now, having spent my career bringing experience design practices to rare diseases and delivering elegant AI-driven solutions to change the face of renewable energy, I'm designing the future of Home as a Service at HomeHero.
+Alongside my day job I also work for [Cosmic](https://www.cosmicjs.com) as their Design Lead as well as being the Design Lead for [Make Me A Cocktail](https://www.makemeacocktail.com), and make lots of Figma utilty plugins over at [Plugins.run](https://www.plugins.run).
 
 Previously, I've worked for [NeuerEnergy](https://www.neuerenergy.com), [Cognite](https://www.cognite.co), Incuna and [Apple](https://www.apple.com/uk/retail).
-
-![My portfolio](https://www.kejk.tech/img/portfolio.03ef5548.webp)
 
 <!--
 **kemiljk/kemiljk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
