@@ -3,7 +3,7 @@
 
 I design and build software, write about the intersection of design and development and create music.
 
-Alongside my day job I also work for [Cosmic](https://www.cosmicjs.com) as their Design Lead as well as being the Design Lead for [Make Me A Cocktail](https://www.makemeacocktail.com), and make lots of Figma utilty plugins over at [Plugins.run](https://www.plugins.run).
+Alongside my day job I'm also the Design Lead for both [Cosmic](https://www.cosmicjs.com) and [Make Me A Cocktail](https://www.makemeacocktail.com), and make lots of Figma utilty plugins over at [Plugins.run](https://www.plugins.run).
 
 Previously, I've worked for [NeuerEnergy](https://www.neuerenergy.com), [Cognite](https://www.cognite.co), Incuna and [Apple](https://www.apple.com/uk/retail).
 
