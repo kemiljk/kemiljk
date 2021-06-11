@@ -1,3 +1,5 @@
+<img width="1584" alt="Cover@2x" src="https://user-images.githubusercontent.com/26257029/121675884-e5e2da80-caab-11eb-9c8d-9750ffb32ea4.png">
+
 # Hi there 👋
 ## I'm Karl Emil James Koch, a Product Designer currently designing the Home as a Service at [HomeHero](https://www.homehero.co.uk) in London, UK.
 
