@@ -1,7 +1,7 @@
 <img width="1584" alt="Cover@2x" src="https://user-images.githubusercontent.com/26257029/121675884-e5e2da80-caab-11eb-9c8d-9750ffb32ea4.png">
 
 # Hi there 👋
-## I'm Karl Emil James Koch, a Product Designer currently designing the Home as a Service at [HomeHero](https://www.homehero.co.uk) in London, UK.
+## I'm Karl Emil James Koch, a Product Designer currently designing the future of long-term investing at [Moneybox](https://www.moneyboxapp.com) in London, UK.
 
 I design and build software, write about the intersection of design and development and create music.
 
