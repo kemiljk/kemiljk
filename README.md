@@ -7,7 +7,7 @@ I design and build software, write about the intersection of design and developm
 
 Alongside my day job I'm also the Design Lead for both [Cosmic](https://www.cosmicjs.com) and [Make Me A Cocktail](https://www.makemeacocktail.com), and make lots of Figma utilty plugins over at [Plugins.run](https://www.plugins.run).
 
-Previously, I've worked for [HomeHero](https://www.homehero.co.uk) [NeuerEnergy](https://www.neuerenergy.com), [Cognite](https://www.cognite.co), Incuna and [Apple](https://www.apple.com/uk/retail).
+Previously, I've worked for [HomeHero](https://www.homehero.co.uk), [NeuerEnergy](https://www.neuerenergy.com), [Cognite](https://www.cognite.co), Incuna and [Apple](https://www.apple.com/uk/retail).
 
 <!--
 **kemiljk/kemiljk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
