@@ -9,6 +9,9 @@ Alongside my day job I'm also the Design Lead for both [Cosmic](https://www.cosm
 
 Previously, I've worked for [HomeHero](https://www.homehero.co.uk), [NeuerEnergy](https://www.neuerenergy.com), [Cognite](https://www.cognite.co), Incuna and [Apple](https://www.apple.com/uk/retail).
 
+I've got a lot of plugins for Figma.
+![total installs](https://img.shields.io/endpoint?url=https://yuanqing.github.io/figma-plugins-stats/publisher/_kejk/installs.json)
+
 <!--
 **kemiljk/kemiljk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
