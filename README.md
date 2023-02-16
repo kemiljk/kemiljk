@@ -1,4 +1,4 @@
-<img width="1584" alt="Cover@2x" src="https://user-images.githubusercontent.com/26257029/121675884-e5e2da80-caab-11eb-9c8d-9750ffb32ea4.png">
+<img width="1584" alt="Cover@2x" src="https://imgix.cosmicjs.com/c7edd3d0-ae12-11ed-af66-33af207f05dd-LinkedIn-cover---1.png.jpg">
 
 # Hi there 👋
 ## I'm Karl Emil James Koch, a Product Designer and sometimes Design Engineer at [DuckDuckGo](https://www.duckduckgo.com).
