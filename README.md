@@ -1,13 +1,13 @@
 <img width="1584" alt="Cover@2x" src="https://user-images.githubusercontent.com/26257029/121675884-e5e2da80-caab-11eb-9c8d-9750ffb32ea4.png">
 
 # Hi there 👋
-## I'm Karl Emil James Koch, a Product Designer currently designing the payments experience and leading our Design Systems team at [Moneybox](https://www.moneyboxapp.com) in London, UK.
+## I'm Karl Emil James Koch, a Product Designer and sometimes Design Engineer at [DuckDuckGo](https://www.duckduckgo.com).
 
-I design and build software, write about the intersection of design and development and create music.
+I design and build software, write about it and create music.
 
-Alongside my day job I'm also the Design Lead for [Cosmic](https://www.cosmicjs.com) and [Locally UK](https://www.locallyuk.tech), and make lots of Figma utilty plugins over at [Plugins.run](https://www.plugins.run).
+Alongside my day job I'm also the Design Lead for [Cosmic](https://www.cosmicjs.com) and make lots of Figma utilty plugins over at [Plugins.run](https://www.plugins.run).
 
-Previously, I've worked for [HomeHero](https://www.homehero.co.uk), [NeuerEnergy](https://www.neuerenergy.com), [Cognite](https://www.cognite.co), Incuna and [Apple](https://www.apple.com/uk/retail).
+Previously, I've worked for [Moneybox](https://www.moneyboxapp.com), [HomeHero](https://www.homehero.co.uk), [NeuerEnergy](https://www.neuerenergy.com), [Cognite](https://www.cognite.co), Incuna and [Apple](https://www.apple.com/uk/retail).
 
 <!--
 **kemiljk/kemiljk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
